@@ -42,7 +42,7 @@ education:
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/dedeswim
+  link: https://github.com/juusechec
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/edoardo-debenedetti

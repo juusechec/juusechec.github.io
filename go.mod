@@ -1,4 +1,4 @@
-module github.com/dedeswim/dedeswim.github.io
+module github.com/juusechec/juusechec.github.io
 
 go 1.15
 

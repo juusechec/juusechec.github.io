@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/dedeswim/ml_project_1"
-url_pdf: "https://github.com/dedeswim/ml_project_1/blob/master/report.pdf"
+url_code: "https://github.com/juusechec/ml_project_1"
+url_pdf: "https://github.com/juusechec/ml_project_1/blob/master/report.pdf"
 url_slides: ""
 url_video: ""
 
