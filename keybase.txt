@@ -1,11 +1,11 @@
 ==================================================================
-https://keybase.io/dedeswim
+https://keybase.io/juusechec
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://edoardo.science
-  * I am dedeswim (https://keybase.io/dedeswim) on keybase.
+  * I am juusechec (https://keybase.io/juusechec) on keybase.
   * I have a public key with fingerprint 8E81 5ED3 DA2C 13ED 56D1  6A54 FE03 2FA8 D678 0AC5
 
 To do so, I am signing this object:
@@ -19,7 +19,7 @@ To do so, I am signing this object:
       "key_id": "fe032fa8d6780ac5",
       "kid": "010148fb9a368f714337d150faa7724868d8840b63ad5ad082673549b1aa3f18c8900a",
       "uid": "1079327d8d0a550317038ff18a639819",
-      "username": "dedeswim"
+      "username": "juusechec"
     },
     "merkle_root": {
       "ctime": 1602759242,
@@ -83,6 +83,6 @@ mdoY/LZvJSgb5g5sXJPT8x+yYfwW
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/dedeswim
+View my publicly-auditable identity here: https://keybase.io/juusechec
 
 ==================================================================
