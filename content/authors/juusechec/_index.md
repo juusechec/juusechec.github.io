@@ -1,39 +1,35 @@
 ---
 # Display name
-name: Edoardo Debenedetti
+name: Jorge Ulises Useche Cuellar
 
 # Username (this should match the folder name)
 authors:
-- edoardo
+- juusechec
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: M.Sc. in Computer Science Student
+role: Head of Digital Development
 
 # Organizations/Affiliations
 organizations:
-- name: EPFL
-  url: "https://epfl.ch/en"
+- name: Banco de Bogotá
+  url: "https://www.bancodebogota.com/wps/portal/banco-de-bogota/bogota/nuestra-organizacion/nuestro-banco/historia-mision-vision"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning and Security.
+bio: I'm electronic engineer with extensive experience on web development, my experiences range from development of server-side and client-side applications for viewing and managing geographic data, development of mobile and web applications in HTML5 (JS and CSS) to creation of web services in languages Java, PHP, Python, GO and .NET languages like C#(MVC with Razor) and others, mainly to manage geographic data and information gathering in the field. Also I'm be able to Manage of PostgreSQL / PostGIS, MySQL, MariaDB, and SQL Server databases. I have abilities such as software integration, GNU/Linux user and manager, scripting for Linux administration in Python or Bash. 
 
 interests:
-- Trustworthy Machine Learning
+- Programming
+- Architecture
+- Problem solving
 
 education:
   courses:
-  - course: M.Sc. in Computer Science 🇨🇭
-    institution: EPFL - Swiss Federal Institute of Technology, Lausanne, Switzerland
-    year: 2019-2022 (exp.)
-  - course: B.Sc. in Computer Engineering 🇮🇹
-    institution: PoliTo - Turin Polytechic University, Italy
-    year: 2016-2019
-  - course: Exchange Year 🇨🇳
-    institution: Tongji University, Shanghai, China
-    year: 2017-2018
+  - course: Electronic Engineer 🇨🇴
+    institution: Universidad Distrital Francisco José de Caldas
+    year: 2009-2016 (exp.)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +41,7 @@ social:
   link: https://github.com/juusechec
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/edoardo-debenedetti
+  link: https://www.linkedin.com/in/juusechec/
 - icon: cv
   icon_pack: ai
   link: /cv.pdf
@@ -54,7 +50,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/edoardo_debe
+  link: https://twitter.com/juusechec
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

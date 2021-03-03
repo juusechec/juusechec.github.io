@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "[Re] Subspace Attack: Exploiting Promising Subspaces for Query-Efficient Black-box Attacks"
-authors: ["edoardo", "Dan Shaked Renous", "Faezeh Nassajian"]
+authors: ["juusechec", "Dan Shaked Renous", "Faezeh Nassajian"]
 date: 2019-27-12T18:47:43+01:00
 doi: ""
 draft: false
