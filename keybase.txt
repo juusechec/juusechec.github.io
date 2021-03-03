@@ -4,7 +4,7 @@ https://keybase.io/juusechec
 
 I hereby claim:
 
-  * I am an admin of https://edoardo.science
+  * I am an admin of https://juusechec.github.io
   * I am juusechec (https://keybase.io/juusechec) on keybase.
   * I have a public key with fingerprint 8E81 5ED3 DA2C 13ED 56D1  6A54 FE03 2FA8 D678 0AC5
 
@@ -32,7 +32,7 @@ To do so, I am signing this object:
       ]
     },
     "service": {
-      "hostname": "edoardo.science",
+      "hostname": "juusechec.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
