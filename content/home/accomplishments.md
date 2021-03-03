@@ -18,14 +18,4 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Turin Polytechnic University"
-  organization_url = "https://www.polito.it"
-  title = "PoliTong Scholarship"
-  url = "https://www.polito.it/international/offerta/percorsi/politong/index.php?lang=en"
-  certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = ""
-  description = "Awarded to 11 out of 35 students that participated in the selection. Full scholarship for the one-year exchange in Shanghai."
-
 +++
