@@ -51,7 +51,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/juusechec
-- icon: blog
+- icon: blogger-b
   icon_pack: fab
   link: https://ulisesuseche.blogspot.com
 # Link to a PDF of your resume/CV from the About widget.
