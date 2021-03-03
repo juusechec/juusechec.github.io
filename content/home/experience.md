@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+<!-- [[experience]]
   title = "Software Engineering Intern"
   company = "Bloomberg LP"
   company_url = "https://bloomberg.com"
@@ -74,6 +74,6 @@ date_format = "Jan 2006"
   * While I was in charge, JEToP signed **8 new strategic partnerships**.
   * Past positions: **IT Consultant**, **Fundraising & Partnership** Assistant.
 
-  """
+  """ -->
 
 +++
