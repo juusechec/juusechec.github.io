@@ -7,3 +7,6 @@ The base theme is [Wowchemy](https://wowchemy.com/), with some little edits by m
 ```sh
 hugo server -D
 ```
+
+## based on
+- https://github.com/dedeswim/dedeswim.github.io
