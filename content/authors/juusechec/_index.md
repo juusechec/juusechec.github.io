@@ -21,8 +21,7 @@ organizations:
 bio: I'm electronic engineer with extensive experience on web development, my experiences range from development of server-side and client-side applications for viewing and managing geographic data, development of mobile and web applications in HTML5 (JS and CSS) to creation of web services in languages Java, PHP, Python, GO and .NET languages like C#(MVC with Razor) and others, mainly to manage geographic data and information gathering in the field. Also I'm be able to Manage of PostgreSQL / PostGIS, MySQL, MariaDB, and SQL Server databases. I have abilities such as software integration, GNU/Linux user and manager, scripting for Linux administration in Python or Bash. 
 
 interests:
-- Programming
-- Architecture
+- Technology (Programming / Software / Hardware / Automation)
 - Problem solving
 
 education:
