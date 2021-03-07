@@ -127,8 +127,8 @@ fabric.properties
 # Public
 public/
 
-# CSS
-static/css/style.css
+# Resources
+resources/
 
 # VS Code
 .vscode/
