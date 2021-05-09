@@ -72,5 +72,4 @@ user_groups:
 - Visitors
 ---
 
-[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Juusechec**, and I'm updating
-this website!
+Hello there! I am **Jorge**, and [this site](https://juusechec.github.io/) is under construction!
