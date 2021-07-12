@@ -41,6 +41,9 @@ social:
 - icon: file-code
   icon_pack: fas
   link: https://gist.github.com/juusechec
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/juusechec
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/juusechec/

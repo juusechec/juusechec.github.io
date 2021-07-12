@@ -111,11 +111,13 @@ appointment_url = ""
 contact_links = [
   {icon = "github", icon_pack = "fab", name = "Check out some code", link = "https://github.com/juusechec"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/juusechec"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/juusechec"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/juusechec"},
   {icon = "instagram", icon_pack = "fab", name = "See some pictures of my travels", link = "https://instagram.com/juusechec"},
+  {icon = "linkedin", icon_pack = "fab", name = "Connect Me", link = "https://www.linkedin.com/in/juusechec/"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "cv", icon_pack = "ai", name = "Look at my Curriculum Vitae", link = "/cv.pdf"},
   ]
 
 ############################
@@ -222,7 +224,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

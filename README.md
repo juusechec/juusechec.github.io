@@ -9,7 +9,8 @@ The base theme is [Wowchemy](https://wowchemy.com/), with some little edits by m
 
 ## run
 ```sh
-hugo server -D
+hugo server -D -p 8081
+open http://localhost:8081
 ```
 
 ## based on

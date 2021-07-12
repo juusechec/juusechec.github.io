@@ -19,3 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+
+I have around 10 years old of experience doing web and mobile applications, leading tech, taking decisions on software design and architecture.
+I've moved in different topics like geographic information, education, and financial services.
+
+I'm a product maker mainly on web, mobile and desktop. I was a developer of products like SGA-UD Bogotá, IDE-AT Colombia, Tremarctos Colombia, SIGOL Llanos Orientales, Authenticator BdB Bogotá, LADM-COL "Modernization of Land Administration in Colombia", CIRENE GIS UD, EAAB -ESP GIS Viewer, and dozens more projects. All of them with an strength focus on customer satisfaction.
+
+If you want to see more, look at my [CV](/cv.pdf)
+
