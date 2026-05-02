@@ -70,7 +70,7 @@ social:
   link: https://ulisesuseche.blogspot.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jorgenator2@yahoo.es"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
