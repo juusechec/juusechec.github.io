@@ -10,25 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of Digital Development
+role: Technology Leader | Digital Transformation Director | Staff Software Engineer at PayJoy
 
 # Organizations/Affiliations
 organizations:
-- name: Banco de Bogotá
-  url: "https://www.bancodebogota.com/wps/portal/banco-de-bogota/bogota/nuestra-organizacion/nuestro-banco/historia-mision-vision"
+- name: PayJoy
+  url: "https://www.payjoy.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm electronic engineer with extensive experience on web development, my experiences range from development of server-side and client-side applications for viewing and managing geographic data, development of mobile and web applications in HTML5 (JS and CSS) to creation of web services in languages Java, PHP, Python, GO and .NET languages like C#(MVC with Razor) and others, mainly to manage geographic data and information gathering in the field. Also I'm be able to Manage of PostgreSQL / PostGIS, MySQL, MariaDB, and SQL Server databases. I have abilities such as software integration, GNU/Linux user and manager, scripting for Linux administration in Python or Bash. 
+bio: Seasoned Technology Executive and Enterprise Architect with 15+ years of experience bridging complex technical execution and high-level business strategy. Expert in Enterprise Architecture, Digital Transformation, and designing resilient, global-scale platforms in high-growth FinTech environments.
 
 interests:
+- Enterprise Architecture & System Design
+- Digital Transformation
+- Software Observability & Reliability
+- Mentoring & Engineering Leadership
 - Technology (Programming / Software / Hardware / Automation)
 - Problem solving
 
 education:
   courses:
+  - course: Master in Information Technology Architecture (MATI) — in progress 🇨🇴
+    institution: Universidad de los Andes
+    year: Present
+  - course: Master of Science — Data Science 🇪🇸
+    institution: Universitat Oberta de Catalunya
+    year: 2021-2023
   - course: Electronic Engineer 🇨🇴
     institution: Universidad Distrital Francisco José de Caldas
-    year: 2009-2016 (exp.)
+    year: 2009-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,4 +85,12 @@ user_groups:
 - Visitors
 ---
 
-Hello there! I am **Jorge**, and [this site](https://juusechec.github.io/) is under construction!
+Hello! I'm **Jorge Ulises Useche Cuellar** — Technology Leader and Enterprise Architect based in Bogotá, Colombia.
+
+I am a seasoned Technology Executive with 15 years of experience bridging the gap between complex technical execution and high-level business strategy. My expertise spans Enterprise Architecture, Digital Transformation, and designing resilient, global-scale platforms, demonstrated in high-growth FinTech environments at **PayJoy**, **Nubank**, and **Banco de Bogotá**.
+
+As Head of Digital Development at Banco de Bogotá, I led a development organization of over 130 people and drove the enterprise agile transformation, improving the Developer Experience NPS from **49 to 86**.
+
+At Nubank and in my current Staff Engineering role at PayJoy, I architect mission-critical platforms (from core banking integrations to global identity systems) using distributed microservices, Kafka, and resilient design patterns to ensure maximum stability and zero-outage deployments.
+
+My core strength lies in translating complex business objectives into robust, profitable technical solutions — presenting high-level technical vision to stakeholders, mentoring senior engineers, and building enterprise architectures that power digital businesses across LATAM and globally.
