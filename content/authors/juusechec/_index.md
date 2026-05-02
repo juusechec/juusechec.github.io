@@ -29,13 +29,13 @@ interests:
 
 education:
   courses:
-  - course: Master in Information Technology Architecture (MATI) — in progress
+  - course: Master in Information Technology Architecture (MATI) — in progress 🇨🇴
     institution: Universidad de los Andes
     year: Present
-  - course: Master of Science — Data Science
+  - course: Master of Science — Data Science 🇪🇸
     institution: Universitat Oberta de Catalunya
     year: 2021-2023
-  - course: Electronic Engineer
+  - course: Electronic Engineer 🇨🇴
     institution: Universidad Distrital Francisco José de Caldas
     year: 2009-2016
 
