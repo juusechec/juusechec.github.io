@@ -26,6 +26,7 @@ interests:
 - Software Observability & Reliability
 - Mentoring & Engineering Leadership
 - Technology (Programming / Software / Hardware / Automation)
+- Problem solving
 
 education:
   courses:
