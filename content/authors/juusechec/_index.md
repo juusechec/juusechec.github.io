@@ -1,6 +1,9 @@
 ---
 # Display name
 name: Jorge Ulises Useche Cuellar
+title: "Jorge Ulises Useche Cuellar"
+date: "2019-01-01T00:00:00Z"
+description: "Seasoned Technology Executive and Enterprise Architect with 15+ years of experience bridging complex technical execution and high-level business strategy. Expert in Enterprise Architecture, Digital Transformation, and designing resilient, global-scale platforms in high-growth FinTech environments."
 
 # Username (this should match the folder name)
 authors:

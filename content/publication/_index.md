@@ -1,5 +1,7 @@
 ---
 title: Publications
+date: "2019-01-01T00:00:00Z"
+description: "Academic publications and research papers by Jorge Useche, including machine learning and reproducibility work."
 
 # View.
 #   1 = List
