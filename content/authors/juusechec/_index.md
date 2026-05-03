@@ -94,6 +94,6 @@ I am a seasoned Technology Executive with 15 years of experience bridging the ga
 
 As Head of Digital Development at Banco de Bogotá, I led a development organization of over 130 people and drove the enterprise agile transformation, improving the Developer Experience NPS from **49 to 86**.
 
-At Nubank and in my current Staff Engineering role at PayJoy, I architect mission-critical platforms (from core banking integrations to global identity systems) using distributed microservices, Kafka, and resilient design patterns to ensure maximum stability and zero-outage deployments.
+At Nubank and in my Staff Engineering roles, I architect mission-critical platforms (from core banking integrations to global identity systems) using distributed microservices, Kafka, and resilient design patterns to ensure maximum stability and zero-outage deployments.
 
 My core strength lies in translating complex business objectives into robust, profitable technical solutions — presenting high-level technical vision to stakeholders, mentoring senior engineers, and building enterprise architectures that power digital businesses across LATAM and globally.
