@@ -17,8 +17,10 @@ role: Technology Leader | Digital Transformation Director | Staff Software Engin
 
 # Organizations/Affiliations
 organizations:
-- name: PayJoy
-  url: "https://www.payjoy.com"
+- name: Linux Group
+  url: "https://glud.udistrital.edu.co/"
+- name: Clojure Colombia
+  url: "https://clojurecolombia.wordpress.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Seasoned Technology Executive and Enterprise Architect with 15+ years of experience bridging complex technical execution and high-level business strategy. Expert in Enterprise Architecture, Digital Transformation, and designing resilient, global-scale platforms in high-growth FinTech environments.
