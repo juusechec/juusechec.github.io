@@ -1,6 +1,5 @@
 html, body {
     height: 100%;
-    overflow-x: hidden;
 }
 
 .wg-hero {
@@ -43,7 +42,7 @@ html, body {
   }
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 480px) {
     .hero-container .hero-title h1 {
         margin-top: 2rem;
         margin-bottom: .5rem;
