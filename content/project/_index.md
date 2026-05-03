@@ -1,8 +1,7 @@
 ---
 draft: true
-title: Recent & Upcoming Talks
+title: Projects
 date: "2019-01-01T00:00:00Z"
-description: "Recent and upcoming talks, presentations, and conference sessions by Jorge Useche on software engineering and technology leadership."
 
 # View.
 #   1 = List

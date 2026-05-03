@@ -1,5 +1,8 @@
 ---
+draft: true
 title: Posts
+date: "2019-01-01T00:00:00Z"
+description: "Articles, tutorials, and insights on software engineering, enterprise architecture, and technology leadership by Jorge Useche."
 
 # View.
 #   1 = List
