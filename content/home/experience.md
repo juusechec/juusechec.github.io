@@ -88,8 +88,8 @@ Led Transfer Rails as a Global Platform for the Colombian Savings Account. Key c
 
 [[experience]]
   title = "Co-Founder COO / Interim CTO"
-  company = "EP13"
-  company_url = ""
+  company = "EPI3"
+  company_url = "https://epi3.co"
   location = "Bogotá, Colombia"
   date_start = "2023-09-01"
   date_end = "2025-02-01"
@@ -169,7 +169,7 @@ Validated code from high-potential engineers evaluating quality code and best pr
 [[experience]]
   title = "Business Architecture Advisor"
   company = "Isatech Corporation S.A.S"
-  company_url = ""
+  company_url = "https://isatechcorp.com"
   location = "Bogotá, Colombia"
   date_start = "2020-08-01"
   date_end = "2021-01-01"
@@ -196,7 +196,7 @@ Progressive roles over 3.5 years:
 [[experience]]
   title = "Full Stack Developer"
   company = "INCIGE S.A.S"
-  company_url = ""
+  company_url = "https://incige.com"
   location = "Bogotá, Colombia"
   date_start = "2016-11-01"
   date_end = "2018-08-01"
@@ -207,7 +207,7 @@ Main developer of the first version of "Visor Acueducto TAR PLMB". Infrastructur
 [[experience]]
   title = "Junior Software Developer"
   company = "Geo Thinking"
-  company_url = ""
+  company_url = "https://www.linkedin.com/company/geo-thinking-s-a-s/"
   location = "Bogotá, Colombia"
   date_start = "2012-01-01"
   date_end = "2015-01-01"
