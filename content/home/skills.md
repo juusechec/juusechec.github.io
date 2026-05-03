@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "dog"
+  icon = "eye"
   icon_pack = "fas"
-  name = "Datadog & Observability"
+  name = "Monitoring & Observability"
   description = "Software observability, alerting systems, and operational playbooks for distributed systems."
 
 [[feature]]
