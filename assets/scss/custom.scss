@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    overflow-x: hidden;
 }
 
 .wg-hero {
@@ -47,6 +48,9 @@ html, body {
         margin-top: 2rem;
         margin-bottom: .5rem;
         font-size: 2.2rem;
+        white-space: normal;
+        border-right: none;
+        animation: none;
     }
 }
 
