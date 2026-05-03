@@ -13,7 +13,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Technology Leader | Digital Transformation Director | Staff Software Engineer at PayJoy
+role: Technology Leader | Digital Transformation Director | Staff Software Engineer
 
 # Organizations/Affiliations
 organizations:
