@@ -5,7 +5,7 @@ title: "[Re] Subspace Attack: Exploiting Promising Subspaces for Query-Efficient
 authors: ["juusechec", "Dan Shaked Renous", "Faezeh Nassajian"]
 date: 2019-12-27T18:47:43+01:00
 doi: ""
-draft: false
+draft: true
 description: "Reproduction of the Subspace Attack algorithm from NeurIPS 2019, achieving better median query counts but worse failure rate than the original paper."
 
 # Schedule page publish date (NOT publication's date).
