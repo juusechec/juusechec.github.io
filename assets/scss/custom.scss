@@ -9,6 +9,7 @@ html, body {
 
 .hero-container {
   display: flex;
+  overflow: hidden;
 }
 
 .hero-container .hero-title h1 {
